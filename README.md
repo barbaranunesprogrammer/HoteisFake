@@ -106,14 +106,3 @@ LinkedIn: https://www.linkedin.com/in/barbaranunesprogrammer/
 GitHub: https://github.com/barbaranunesprogrammer
 
 
----
-
-Se você quiser, eu também posso:
-
-✅ criar o repositório para você (se me mandar o nome)  
-ou  
-✅ gerar badges extras (ex: versão, commit, stars, etc)  
-ou  
-✅ traduzir para inglês (se quiser publicar para recrutas tech)
-
-Só dizer: **quer algo a mais?** 😄
